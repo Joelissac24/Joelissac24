@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  AI<br>💬 Ask me about Python , MERN ,<br>
+🔭 I’m currently working on  AI<br>💬 Ask me about Python , MERN <br>
 
 
 ## 🌐 Socials:
